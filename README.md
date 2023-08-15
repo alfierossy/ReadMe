@@ -12,7 +12,7 @@ In this page, you can find some of the projects that I have done or contributed 
 • RFM analysis is a technique that segments customers based on three metrics: recency, frequency, and monetary value. Recency measures how recently a customer made a purchase, frequency measures how often a customer made a purchase, and monetary value measures how much a customer spent. By assigning scores to each metric and combining them, RFM analysis can rank customers into different segments, such as loyal, high-value, at-risk, etc. RFM analysis can help optimize marketing campaigns, increase customer loyalty, and improve customer lifetime value.
 You will also see repositories with tasks in SQL and Looker studio to show my current skill level.
 
-Skills & tools
+Skills & tools:
 SQL, Looker, Excel, Powerpoint
 
 If you have any questions, feedback or suggestions, feel free to contact me at fred.okobi@gmail.com
