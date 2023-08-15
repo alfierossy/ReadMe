@@ -1,4 +1,4 @@
-# ReadMe
+
 Hello and welcome to my GitHub page!
 My name is Fred and I'm a Research Analyst from KANTAR and a student at Turing College. I'm passionate about strategy, finding insights, telling stories and solving problems with data.
 In this page, you can find some of the projects that I have done or contributed to, showcasing my skills and interests in data analytics. You can also check out my LinkedIn Profile for more details about me and my work.
