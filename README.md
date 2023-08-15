@@ -1,6 +1,6 @@
 
 Hello and welcome to my GitHub page!
-My name is Fred and I'm a Research Analyst from KANTAR and a student at Turing College. I'm passionate about strategy, finding insights, telling stories and solving problems with data.
+My name is Fred and I'm a Snr Research Analyst at KANTAR. I'm passionate about strategy, finding insights, telling stories and solving problems with data.
 In this page, you can find some of the projects that I have done or contributed to, showcasing my skills and interests in data analytics. You can also check out my LinkedIn Profile for more details about me and my work.
 
 • CLV analysis project: This project aims to estimate the customer lifetime value (CLV) of an online retail company’s customer, based on their purchase history and behaviour. CLV is a metric that measures how much a customer is worth to a business over their entire relationship. By calculating the CLV, the company can identify its most valuable customers, segment them into different groups, and design targeted marketing strategies to increase retention and loyalty.
